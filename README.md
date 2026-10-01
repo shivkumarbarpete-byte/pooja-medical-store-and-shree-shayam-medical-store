@@ -5,7 +5,10 @@ A simple and responsive website for **Pooja Medical Store** and **Shree Shyam Me
 
 ## 🌐 Live Website
 
-**[Visit Live Website](https://pooja-medical-store.vercel.app/)**
+**[Visit Live Website](https://pooja-medical-store-and-shree-shaya.vercel.app/)**
+
+🚀 The project is live and deployed on Vercel.
+
 
 ## 📌 About the Project
 
